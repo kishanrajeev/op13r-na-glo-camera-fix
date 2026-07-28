@@ -1,0 +1,6 @@
+id=camera_fix_oneplus_13r
+name=OnePlus 13R Camera Fix (GLO ROM)
+version=1.0
+versionCode=1
+author=Kishan R
+description=Fixes OplusCamera crash on OnePlus 13R (CPH2647) after flashing global ROM. Provides 40 native camera .so libraries to /system/product/lib64/ and NA-region ODM camera tuning configs.
